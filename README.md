@@ -11,7 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohitmishra8921)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitmishra8921@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohitmishra8921)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/mohitmishra8921/portfolio)
 
 <br/>
 
@@ -24,33 +23,13 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding GIF" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-```python
-class MohitMishra:
-    def __init__(self):
-        self.name        = "Mohit Mishra"
-        self.role        = "Aspiring Data Scientist & Python Developer"
-        self.location    = "India 🇮🇳"
-        self.skills      = ["Python", "Pandas", "NumPy",
-                            "Matplotlib", "Scikit-learn"]
-        self.focus       = "Data Analysis & Machine Learning"
-        self.goal        = "Land my first Data Science / Python Dev role"
-        self.strength    = "Consistency + Project Building 🚀"
-
-    def mindset(self):
-        return "Learn → Build → Share → Improve 🔄"
-
-    def available_for(self):
-        return ["Internship", "Entry-Level Roles", "Freelance Projects"]
-```
-
-<br clear="right"/>
-
 - 🔭 Currently working on **end-to-end Data Science projects**
 - 🌱 Learning **Machine Learning & Advanced EDA**
 - 💡 Passionate about turning **raw data into actionable insights**
 - 📈 Daily GitHub contributor — consistency is my superpower
 - 📬 Reach me at **mohitmishra8921@gmail.com**
+- 🎯 Goal: **Land my first Data Science / Python Developer role**
+- 💼 Open to: **Internship | Entry-Level Roles | Freelance Projects**
 
 ---
 
@@ -80,11 +59,11 @@ class MohitMishra:
 
 | Skill | Level | Progress |
 |:---|:---:|:---:|
-| 🐍 Python | Intermediate | `██████████░░░░` 70% |
-| 📊 Data Analysis (Pandas/NumPy) | Intermediate | `████████░░░░░░` 60% |
-| 📈 Data Visualization | Developing | `███████░░░░░░░` 55% |
-| 🤖 Machine Learning | Learning | `█████░░░░░░░░░` 40% |
-| 🔧 Git & GitHub | Intermediate | `███████░░░░░░░` 55% |
+| 🐍 Python | Intermediate | ██████████░░░░ 70% |
+| 📊 Data Analysis | Intermediate | ████████░░░░░░ 60% |
+| 📈 Data Visualization | Developing | ███████░░░░░░░ 55% |
+| 🤖 Machine Learning | Learning | █████░░░░░░░░░ 40% |
+| 🔧 Git & GitHub | Intermediate | ███████░░░░░░░ 55% |
 
 ---
 
@@ -94,7 +73,7 @@ class MohitMishra:
   <tr>
     <td width="50%">
       <h3>🐍 Python Practice</h3>
-      <p>Core Python concepts, OOP, problem solving, and fundamentals structured for real-world use.</p>
+      <p>Core Python concepts, OOP, problem solving structured for real-world use.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <a href="https://github.com/mohitmishra8921/python">
         <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -102,7 +81,7 @@ class MohitMishra:
     </td>
     <td width="50%">
       <h3>📊 Data Science & EDA</h3>
-      <p>Real-world datasets, exploratory data analysis, and insight generation using Pandas & NumPy.</p>
+      <p>Real-world datasets, exploratory data analysis and insight generation.</p>
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
       <a href="https://github.com/mohitmishra8921/Datascience">
@@ -113,7 +92,7 @@ class MohitMishra:
   <tr>
     <td width="50%">
       <h3>💼 Portfolio Website</h3>
-      <p>Personal branding website to showcase skills, projects, and experience.</p>
+      <p>Personal branding website to showcase skills and projects.</p>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       <a href="https://github.com/mohitmishra8921/portfolio">
@@ -122,7 +101,7 @@ class MohitMishra:
     </td>
     <td width="50%">
       <h3>📘 Python Course</h3>
-      <p>Structured learning repository covering Python from basics to advanced concepts.</p>
+      <p>Structured learning repo covering Python from basics to advanced.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <a href="https://github.com/mohitmishra8921/python.course">
         <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -146,10 +125,10 @@ class MohitMishra:
 
 ---
 
-## 🟩 Contribution Activity
+## 🟩 Contribution Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitmishra8921&theme=tokyo-night&hide_border=true&area=true&area_color=7C3AED" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitmishra8921&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
 ---
@@ -181,22 +160,19 @@ class MohitMishra:
 
 ## 🎯 Career Objective
 
-> Aspiring **Data Scientist & Python Developer** with a strong foundation in programming and data analysis.  
-> I build real-world projects daily, contribute consistently to GitHub, and am actively seeking an **internship or entry-level role** where I can contribute, learn, and grow.
+> Aspiring **Data Scientist & Python Developer** with a strong foundation in programming and data analysis.
+> Building real-world projects daily and seeking an **internship or entry-level role** to grow professionally.
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 🤝 Let's Connect
 
 <div align="center">
 
-| Platform | Link |
-|:---:|:---|
-| 💼 LinkedIn | [linkedin.com/in/mohitmishra8921](https://www.linkedin.com/in/mohitmishra8921) |
-| 📧 Email | [mohitmishra8921@gmail.com](mailto:mohitmishra8921@gmail.com) |
-| 🐙 GitHub | [github.com/mohitmishra8921](https://github.com/mohitmishra8921) |
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohitmishra8921)
+[![Gmail](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitmishra8921@gmail.com)
 
-**Open to:** `Internship` · `Entry-Level Roles` · `Freelance Projects` · `Open Source Collaboration`
+**Open to:** `Internship` · `Entry-Level Roles` · `Freelance` · `Open Source`
 
 </div>
 
@@ -204,11 +180,7 @@ class MohitMishra:
 
 <div align="center">
 
-### 💬 My Motto
-
 *"Consistency + Projects = Opportunities. I show up every single day."*
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
