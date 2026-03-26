@@ -75,19 +75,27 @@ mohit = {
 <div align="center">
 
 #### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,html,js" />
+<br/>
+<img src="https://skillicons.dev/icons?i=python,html,js&perline=3" />
+<br/><br/>
 
 #### 📊 Data Science
-<img src="https://skillicons.dev/icons?i=python,jupyter" />
-&nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48"/>
-&nbsp;
-<img src="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white" height="48"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="48"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=jupyter&perline=6" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="44"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white" height="44"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="44"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" height="44"/>
+<br/><br/>
 
 #### ⚙️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,googlecolab" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,googlecolab&perline=4" />
+<br/>
 
 </div>
 
@@ -122,6 +130,15 @@ mohit = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmishra8921&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9" width="40%"/>
 </div>
 
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mohitmishra8921/mohitmishra8921/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+---
 
 ## 🗺️ My Learning Roadmap
 
