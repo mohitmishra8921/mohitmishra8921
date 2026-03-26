@@ -122,15 +122,6 @@ mohit = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmishra8921&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9" width="40%"/>
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mohitmishra8921/mohitmishra8921/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
----
 
 ## 🗺️ My Learning Roadmap
 
