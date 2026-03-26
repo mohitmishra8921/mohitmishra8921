@@ -1,116 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohit%20Mishra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Developer%20%7C%20Data%20Science%20Enthusiast&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohit%20Mishra&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20Aspiring%20Data%20Scientist&descAlignY=58&descSize=20&descColor=a78bfa"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=👋+Hey%2C+I'm+Mohit+Mishra!;🐍+Python+Developer+in+Progress;📊+Data+Science+Enthusiast;🚀+Building+in+Public+Every+Day!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=🐍+Building+Python+skills+daily;📊+Turning+data+into+insights;🚀+Open+to+work+%7C+Fresher+%7C+Data+Science;💡+Learning+in+public+—+one+commit+at+a+time" />
 </a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohitmishra8921)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitmishra8921@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohitmishra8921)
-![Profile Views](https://komarev.com/ghpvc/?username=mohitmishra8921&style=for-the-badge&color=blueviolet)
+<a href="https://www.linkedin.com/in/mohitmishra8921">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mohitmishra8921@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/mohitmishra8921?tab=repositories">
+  <img src="https://img.shields.io/badge/Portfolio-View%20Projects-6E40C9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=mohitmishra8921&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS"/>
 
 </div>
 
+<br/>
+
 ---
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Data Science" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-### 🧑‍💻 About Me
+## 👨‍💻 Who Am I?
 ```python
-mohit = {
-    "name"     : "Mohit Mishra",
-    "role"     : "Python Developer & Data Science Learner",
-    "learning" : ["Pandas", "NumPy", "Matplotlib", "ML"],
-    "building" : "Projects daily — learning in public",
-    "goal"     : "Become a Data Scientist 🎯",
-    "streak"   : "78 contributions & counting 🔥",
-    "contact"  : "mohitmishra8921@gmail.com"
-}
-```
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-#### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### 📊 Data Science
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-#### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🏷️ Project | 📝 Description | 🔧 Tech | 🔗 Link |
-|:---:|:---|:---:|:---:|
-| 🐍 **python** | Core Python — OOP, loops, functions & more | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | [View →](https://github.com/mohitmishra8921/python) |
-| 📊 **Datascience** | Data analysis notebooks & EDA exercises | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | [View →](https://github.com/mohitmishra8921/Datascience) |
-| 💼 **portfolio** | Personal portfolio website | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [View →](https://github.com/mohitmishra8921/portfolio) |
-| 📘 **python.course** | Structured Python learning curriculum | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | [View →](https://github.com/mohitmishra8921/python.course) |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitmishra8921&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmishra8921&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9" width="48%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmishra8921&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9" width="40%"/>
-</div>
-
----
-
-## 🗺️ My Learning Roadmap
-
-<div align="center">
-
-| Status | Topic |
-|:---:|:---|
-| ✅ | Python Fundamentals |
-| ✅ | HTML & JavaScript Basics |
-| 🔥 | **Pandas, NumPy & Data Analysis ← Currently Here** |
-| ⬜ | Data Visualization (Matplotlib, Seaborn) |
-| ⬜ | Machine Learning (Scikit-learn) |
-| ⬜ | End-to-End Data Science Projects |
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Quote
-
-*"Every expert was once a beginner. I document my journey — one commit at a time."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-</div>
