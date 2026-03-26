@@ -46,21 +46,7 @@ mohit = {
 
 ---
 
-## 🎯 Skill Levels
 
-<div align="center">
-
-| 💼 Skill | 📊 Progress | 📝 Details |
-|:---|:---:|:---|
-| 🐍 Python | ██████████ 70% | OOP, functions, loops, file handling |
-| 📊 Data Analysis | ████████░░ 60% | Pandas, NumPy, EDA |
-| 📓 Jupyter Notebook | ████████░░ 65% | Notebooks, data storytelling |
-| 🌐 Web Basics | ███████░░░ 55% | HTML5, JavaScript |
-| 🔧 Git & GitHub | ███████░░░ 55% | Version control, daily commits |
-
-</div>
-
----
 
 ## 🛠️ Tech Stack & Tools
 
