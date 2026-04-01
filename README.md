@@ -116,7 +116,7 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitmishra8921&theme=tokyonight" width="33%"/>
-  <img src="https://streak-stats.demolab.com/?user=mohitmishra8921&theme=tokyonight&hide_border=true" width="49%"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mohitmishra8921&theme=tokyonight&hide_border=true" width="49%"/>
 </div>
 
 <div align="center">
