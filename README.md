@@ -120,7 +120,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmishra8921&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="42%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohitmishra8921&theme=tokyonight" width="42%"/>
 </div>
 
 ---
