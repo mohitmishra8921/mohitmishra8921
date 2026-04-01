@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohit%20Kumar%20Mishra&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20Developer%20%7C%20Data%20Science%20Enthusiast&descAlignY=58&descSize=18&descColor=a78bfa"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Mohit+Mishra+%F0%9F%91%8B;Python+Developer+%7C+Data+Science+Enthusiast;Building+real-world+projects+daily+%F0%9F%9A%80;Open+to+Internship+%26+Entry-Level+Roles+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Mohit+Kumar+Mishra+%F0%9F%91%8B;Python+Developer+%7C+Data+Science+Enthusiast;Building+real-world+projects+daily+%F0%9F%9A%80;Open+to+Internship+%26+Entry-Level+Roles+%F0%9F%92%BC" alt="Typing SVG" />
 </a>
 
 <br/>
