@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohit%20Kumar%20Mishra&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Scientist%20%7C%20Python%20Developer&descAlignY=58&descSize=18&descColor=a78bfa"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mohit%20Kumar%20Mishra&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Data%20Scientist%20%7C%20Python%20Developer%20%7C%20ML%20Enthusiast&descAlignY=52&descSize=17&descColor=c4b5fd"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Mohit+Kumar+Mishra+%F0%9F%91%8B;Data+Scientist+%7C+Python+Developer;Turning+Data+Into+Decisions%2C+One+Project+at+a+Time;Open+to+Internship+%26+Entry-Level+Roles+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Real+Decisions;Building+ML+Models+That+Actually+Work;Consistent+%7C+Curious+%7C+Committed+to+Growth;Open+to+Data+Science+%26+ML+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,29 +19,57 @@
 
 </div>
 
----
+<br/>
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building **end-to-end data science projects**, from data cleaning to model deployment
-- 📊 Focused on **exploratory data analysis, statistical reasoning, and predictive modeling**
-- 🌱 Expanding into **machine learning** with hands-on, real-world datasets
-- 💡 Driven by turning **raw data into clear, actionable insights**
-- 📈 Consistent daily contributor — I treat practice as non-negotiable
-- 🎯 Goal: **land a Data Science / Python Developer role** where I can apply and grow these skills
-- 💼 Open to: **Internships | Entry-Level Roles | Freelance Projects**
-- 📬 Reach me at **mohitmishra8921@gmail.com**
+<table>
+<tr>
+<td width="60%" valign="top">
+
+- 🔭 Building **end-to-end data science projects** — from raw data to deployable models
+- 📊 Specializing in **EDA, statistical analysis, and predictive modeling**
+- 🤖 Actively developing **machine learning** skills through applied, real-world datasets
+- 💡 I care about the *why* behind the data, not just the code that processes it
+- 📈 Daily contributor — consistency is how I compound skill over time
+- 🎯 Targeting: **Data Science / Python Developer / ML** roles
+- 💼 Open to: `Internships` · `Entry-Level Roles` · `Freelance`
+- 📬 **mohitmishra8921@gmail.com**
+
+</td>
+<td width="40%" valign="top">
+
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Mohit Kumar Mishra"
+        self.role = "Data Scientist"
+        self.stack = ["Python", "Pandas",
+                      "NumPy", "Scikit-Learn"]
+        self.focus = "ML & Predictive Modeling"
+        self.status = "Open to opportunities"
+
+    def daily_routine(self):
+        while True:
+            self.learn()
+            self.build()
+            self.ship()
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center">
 
-### 📊 Data Science & ML
+<img src="https://skillicons.dev/icons?i=python,html,js,git,github,vscode,anaconda&theme=dark" />
+
+<br/><br/>
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
@@ -49,10 +77,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</div>
 
 ---
 
@@ -68,24 +93,58 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohitmishra8921&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmishra8921&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="35%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=mohitmishra8921&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mohitmishra8921&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=10&margin-h=10" width="47%"/>
+
+</div>
+
+---
+
+## 🟩 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitmishra8921&theme=tokyo-night&hide_border=true&area=true&custom_title=Mohit's%20Contribution%20Activity" width="95%"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohitmishra8921/mohitmishra8921/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohitmishra8921/mohitmishra8921/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/mohitmishra8921/mohitmishra8921/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</picture>
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🐍 Python Practice</h3>
-      <p>Core Python, OOP, and problem-solving exercises structured for real-world application.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <a href="https://github.com/mohitmishra8921/python">
+      <h3>📊 Data Science & EDA</h3>
+      <p>Exploratory data analysis and insight generation on real-world datasets — cleaning, visualizing, and interpreting data end to end.</p>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+      <a href="https://github.com/mohitmishra8921/Datascience">
         <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
     <td width="50%">
-      <h3>📊 Data Science & EDA</h3>
-      <p>Exploratory data analysis and insight generation on real-world datasets.</p>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-      <a href="https://github.com/mohitmishra8921/Datascience">
+      <h3>🐍 Python Practice</h3>
+      <p>Core Python, OOP, and problem-solving exercises structured for real-world application.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <a href="https://github.com/mohitmishra8921/python">
         <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -113,39 +172,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitmishra8921&theme=tokyonight" width="33%"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mohitmishra8921&theme=tokyonight&hide_border=true" width="49%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohitmishra8921&theme=tokyonight" width="42%"/>
-</div>
-
----
-
-## 🟩 Contribution Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitmishra8921&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohitmishra8921/mohitmishra8921/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohitmishra8921/mohitmishra8921/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/mohitmishra8921/mohitmishra8921/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</div>
-
----
-
 ## 🗺️ Learning Roadmap
 
 | Status | Topic | Notes |
@@ -155,7 +181,7 @@
 | 🔥 | Data Analysis (EDA) | Actively applying to real datasets |
 | 🔄 | Data Visualization | In progress |
 | 🔄 | Machine Learning | Building foundational models |
-| ⬜ | End-to-End ML Projects | Next milestone |
+| ⬜ | End-to-End ML Deployment | Next milestone |
 
 ---
 
@@ -174,6 +200,16 @@
 [![Gmail](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=mohitmishra8921@gmail.com)
 
 **Open to:** `Internship` · `Entry-Level Roles` · `Freelance` · `Open Source`
+
+</div>
+
+---
+
+## 📅 Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/7C3AED/mohitmishra8921" alt="Mohit's GitHub Contribution Calendar" width="90%"/>
 
 </div>
 
