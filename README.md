@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohit%20Kumar%20Mishra&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20Developer%20%7C%20Data%20Science%20Enthusiast&descAlignY=58&descSize=18&descColor=a78bfa"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohit%20Kumar%20Mishra&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Scientist%20%7C%20Python%20Developer&descAlignY=58&descSize=18&descColor=a78bfa"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Mohit+Kumar+Mishra+%F0%9F%91%8B;Python+Developer+%7C+Data+Science+Enthusiast;Building+real-world+projects+daily+%F0%9F%9A%80;Open+to+Internship+%26+Entry-Level+Roles+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Mohit+Kumar+Mishra+%F0%9F%91%8B;Data+Scientist+%7C+Python+Developer;Turning+Data+Into+Decisions%2C+One+Project+at+a+Time;Open+to+Internship+%26+Entry-Level+Roles+%F0%9F%92%BC" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,13 +23,14 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **end-to-end Data Science projects**
-- 🌱 Learning **Machine Learning & Advanced EDA**
-- 💡 Passionate about turning **raw data into actionable insights**
-- 📈 Daily GitHub contributor — consistency is my superpower
+- 🔭 Currently building **end-to-end data science projects**, from data cleaning to model deployment
+- 📊 Focused on **exploratory data analysis, statistical reasoning, and predictive modeling**
+- 🌱 Expanding into **machine learning** with hands-on, real-world datasets
+- 💡 Driven by turning **raw data into clear, actionable insights**
+- 📈 Consistent daily contributor — I treat practice as non-negotiable
+- 🎯 Goal: **land a Data Science / Python Developer role** where I can apply and grow these skills
+- 💼 Open to: **Internships | Entry-Level Roles | Freelance Projects**
 - 📬 Reach me at **mohitmishra8921@gmail.com**
-- 🎯 Goal: **Land my first Data Science / Python Developer role**
-- 💼 Open to: **Internship | Entry-Level Roles | Freelance Projects**
 
 ---
 
@@ -59,11 +60,11 @@
 
 | Skill | Level | Progress |
 |:---|:---:|:---:|
-| 🐍 Python | Intermediate | ██████████░░░░ 70% |
-| 📊 Data Analysis | Intermediate | ████████░░░░░░ 60% |
-| 📈 Data Visualization | Developing | ███████░░░░░░░ 55% |
-| 🤖 Machine Learning | Learning | █████░░░░░░░░░ 40% |
-| 🔧 Git & GitHub | Intermediate | ███████░░░░░░░ 55% |
+| 🐍 Python | Intermediate–Advanced | ███████████░░░ 75% |
+| 📊 Data Analysis (EDA) | Intermediate | █████████░░░░░ 65% |
+| 📈 Data Visualization | Intermediate | ████████░░░░░░ 60% |
+| 🤖 Machine Learning | Developing | ██████░░░░░░░░ 45% |
+| 🔧 Git & GitHub | Intermediate | ████████░░░░░░ 60% |
 
 ---
 
@@ -73,7 +74,7 @@
   <tr>
     <td width="50%">
       <h3>🐍 Python Practice</h3>
-      <p>Core Python concepts, OOP, problem solving structured for real-world use.</p>
+      <p>Core Python, OOP, and problem-solving exercises structured for real-world application.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <a href="https://github.com/mohitmishra8921/python">
         <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -81,7 +82,7 @@
     </td>
     <td width="50%">
       <h3>📊 Data Science & EDA</h3>
-      <p>Real-world datasets, exploratory data analysis and insight generation.</p>
+      <p>Exploratory data analysis and insight generation on real-world datasets.</p>
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
       <a href="https://github.com/mohitmishra8921/Datascience">
@@ -92,7 +93,7 @@
   <tr>
     <td width="50%">
       <h3>💼 Portfolio Website</h3>
-      <p>Personal branding website to showcase skills and projects.</p>
+      <p>Personal branding site showcasing my skills, projects, and career journey.</p>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       <a href="https://github.com/mohitmishra8921/portfolio">
@@ -101,7 +102,7 @@
     </td>
     <td width="50%">
       <h3>📘 Python Course</h3>
-      <p>Structured learning repo covering Python from basics to advanced.</p>
+      <p>Structured learning repository covering Python from fundamentals to advanced concepts.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <a href="https://github.com/mohitmishra8921/python.course">
         <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -151,17 +152,17 @@
 |:---:|:---|:---|
 | ✅ | Python & OOP | Solid foundation |
 | ✅ | Git & GitHub | Daily contributions |
-| 🔥 | Data Analysis (EDA) | Actively working on |
+| 🔥 | Data Analysis (EDA) | Actively applying to real datasets |
 | 🔄 | Data Visualization | In progress |
-| ⬜ | Machine Learning | Next milestone |
-| ⬜ | End-to-End Projects | Final goal |
+| 🔄 | Machine Learning | Building foundational models |
+| ⬜ | End-to-End ML Projects | Next milestone |
 
 ---
 
 ## 🎯 Career Objective
 
-> Aspiring **Data Scientist & Python Developer** with a strong foundation in programming and data analysis.
-> Building real-world projects daily and seeking an **internship or entry-level role** to grow professionally.
+> Aspiring **Data Scientist** with a strong foundation in Python, data analysis, and statistical thinking.
+> I build real-world projects consistently to sharpen practical skills, and I'm seeking an **internship or entry-level role** where I can contribute to data-driven decision-making while continuing to grow.
 
 ---
 
@@ -180,7 +181,7 @@
 
 <div align="center">
 
-*"Consistency + Projects = Opportunities. I show up every single day."*
+*"Consistency turns practice into expertise, and projects into opportunities."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
