@@ -93,18 +93,15 @@ class DataScientist:
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitmishra8921&theme=tokyonight" width="33%"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mohitmishra8921&theme=tokyonight&hide_border=true" width="49%"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohitmishra8921&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmishra8921&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="35%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=mohitmishra8921&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=mohitmishra8921&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=10&margin-h=10" width="47%"/>
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohitmishra8921&theme=tokyonight" width="42%"/>
 </div>
 
 ---
@@ -204,6 +201,14 @@ class DataScientist:
 </div>
 
 ---
+
+<div align="center">
+
+*"Consistency turns practice into expertise, and projects into opportunities."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+</div>
 
 ## 📅 Contribution Calendar
 
