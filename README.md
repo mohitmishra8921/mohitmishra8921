@@ -110,15 +110,7 @@ class DataScientist:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitmishra8921&theme=tokyo-night&hide_border=true&area=true&custom_title=Mohit's%20Contribution%20Activity" width="95%"/>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohitmishra8921/mohitmishra8921/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohitmishra8921/mohitmishra8921/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/mohitmishra8921/mohitmishra8921/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</picture>
+<img src="https://ghchart.rshah.org/7C3AED/mohitmishra8921" alt="Mohit's GitHub Contribution Graph" width="95%"/>
 
 </div>
 
@@ -197,24 +189,6 @@ class DataScientist:
 [![Gmail](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=mohitmishra8921@gmail.com)
 
 **Open to:** `Internship` · `Entry-Level Roles` · `Freelance` · `Open Source`
-
-</div>
-
----
-
-<div align="center">
-
-*"Consistency turns practice into expertise, and projects into opportunities."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-</div>
-
-## 📅 Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/7C3AED/mohitmishra8921" alt="Mohit's GitHub Contribution Calendar" width="90%"/>
 
 </div>
 
